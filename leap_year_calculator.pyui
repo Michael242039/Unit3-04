@@ -1,0 +1,65 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{16, 89}, {320, 216}}",
+        "class" : "DatePicker",
+        "attributes" : {
+          "name" : "datepicker",
+          "frame" : "{{110, 162}, {320, 216}}",
+          "action" : "isolate_year",
+          "class" : "DatePicker",
+          "mode" : 1,
+          "uuid" : "A72C5614-F022-4DE7-A2F7-A9A058D66AF6"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{108, 313}, {320, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "result_label",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "C59E5379-B5C5-4CA3-947D-A207B9C10BB7",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "2017 is not a leap year",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 89}, {211, 216}}",
+        "class" : "View",
+        "attributes" : {
+          "frame" : "{{220, 220}, {100, 100}}",
+          "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "class" : "View",
+          "name" : "view1",
+          "uuid" : "A9F0F81D-EF67-46C4-BD81-403E278908EC"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {540, 540}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
